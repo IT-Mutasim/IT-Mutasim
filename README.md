@@ -7,12 +7,12 @@ Building smart solutions • Focusing on AI & Backend • Learning continuously 
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Level 5 IT Student @ Saudi Electronic University
-- 💻 Passionate about **Backend Development** & **Artificial Intelligence**
-- 🧠 Continuously building projects to improve my coding and problem-solving skills
-- ✍️ Exploring new tech and building efficient systems
+-  Level 5 IT Student @ Saudi Electronic University
+-  Passionate about **Backend Development** & **Artificial Intelligence**
+-  Continuously building projects to improve my coding and problem-solving skills
+-  Exploring new tech and building efficient systems
 - 📫 Reach me: **[mutasim.a.hashim@gmail.com]**
 
 ---
@@ -33,7 +33,7 @@ Building smart solutions • Focusing on AI & Backend • Learning continuously 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,16 +54,16 @@ Building smart solutions • Focusing on AI & Backend • Learning continuously 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=[اسم_المستخدم_في_جيتهاب]&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=[اسم_المستخدم_في_جيتهاب]&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=[IT-Mutasim]&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=[IT-Mutasim]&theme=radical)
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- ✅ Expanding knowledge in Artificial Intelligence (AI)
-- 📚 Mastering Python and Java for backend systems
-- 🧠 Improving system design and algorithmic thinking
+-  Expanding knowledge in Artificial Intelligence (AI)
+-  Mastering Python and Java for backend systems
+-  Improving system design and algorithmic thinking
 
 ---
 
