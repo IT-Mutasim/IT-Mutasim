@@ -2,7 +2,7 @@
 <h3 align="center">Information Technology Student | Backend & AI Enthusiast</h3>
 
 <p align="center">
-Building smart solutions • Focusing on AI & Backend • Learning continuously 🚀
+Building smart solutions • Focusing on AI & Backend • Learning continuously 
 </p>
 
 ---
