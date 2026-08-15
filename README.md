@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mutasim Hashem 
 
-<!--
-**IT-Mutasim/IT-Mutasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Technology Student | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I am an Information Technology student at Saudi Electronic University with a strong focus on software engineering, backend development, and artificial intelligence. I am passionate about building efficient solutions and continuously exploring advanced technologies in cloud computing and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+*  Currently pursuing my degree in Information Technology.
+*  Focusing on **Backend Development**, **Cloud Computing**, and **Artificial Intelligence**.
+*  Continuously expanding my knowledge through specialized AI courses and tech workshops.
+*  Actively engaged in technical volunteering and IT support initiatives.
+
+##  Tech Stack & Tools
+* **Programming Languages:** Python, Java
+* **Core Interests:** Artificial Intelligence, Cloud Infrastructure, Backend Architecture
+* **Tools & Environments:** Git, VS Code, Google Project IDX
+
+##  Let's Connect
+* **LinkedIn:** [www.linkedin.com/in/it-mutasim]
+* **Email:** [mutasim.a.hashim@gmail.com]
+* **X (Twitter):** [https://x.com/it____24?s=11]
