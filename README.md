@@ -9,7 +9,7 @@ Building smart solutions • Focusing on AI & Backend • Learning continuously
 
 ## About Me
 
-- Level 5 IT Student @ Saudi Electronic University
+- Level 5 IT Student **Saudi Electronic University**
 - Passionate about **Backend Development** & **Artificial Intelligence**
 - Building projects to strengthen my programming and problem-solving skills
 - Exploring Cloud Computing and modern technology 
