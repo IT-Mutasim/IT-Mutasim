@@ -1,15 +1,52 @@
-<h1 align="center">Mutasim Hashim</h1> <p align="center">IT Student → Software Engineer, one project at a time</p> <p align="center"> <a href="https://www.linkedin.com/in/it-mutasim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/it____24?s=11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="mailto:mutasim.a.hashim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> <br>
+<h1 align="center">Mutasim Hashim</h1>
+
+<p align="center">
+  IT Student → Software Engineer, one project at a time
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/it-mutasim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/it____24?s=11">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:mutasim.a.hashim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
 
 ## About Me
 
-I'm a 5th-level IT student at Saudi Electronic University.
-
-I'm currently learning software development, focusing on backend and full-stack development with Python, Java, and SQL.
-
-My goal is to build a strong software engineering foundation and later move into AI application development.
+- I'm a 5th-level IT student at Saudi Electronic University.
+- I'm currently learning software development, focusing on backend and full-stack development with Python, Java, and SQL.
+- My goal is to build a strong software engineering foundation and later move into AI application development.
 
 ### My Path
 
-Software Engineering → Full-Stack Development → AI Application Development
+- Software Engineering
+- Full-Stack Development
+- AI Application Development
 
-<br> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p> <br> <p align="center"> <img src="https://komarev.com/ghpvc/?username=IT-Mutasim&style=for-the-badge&color=0A66C2"/> </p>
+**Path:** Software Engineering → Full-Stack Development → AI Application Development
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT-Mutasim&style=for-the-badge&color=0A66C2"/>
+</p>
